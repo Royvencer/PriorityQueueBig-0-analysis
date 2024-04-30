@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\19565\source\repos\ConsoleApplication47\main.cpp(21,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\19565\source\repos\ConsoleApplication47\main.cpp(29,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\19565\source\repos\ConsoleApplication47\minpriorityqueue.h(69,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\19565\source\repos\ConsoleApplication47\minpriorityqueue.h(68): message : while compiling class template member function 'void MinPriorityQueue<char>::bubble_down(int)'
+C:\Users\19565\source\repos\ConsoleApplication47\minpriorityqueue.h(43): message : see reference to function template instantiation 'void MinPriorityQueue<char>::bubble_down(int)' being compiled
+C:\Users\19565\source\repos\ConsoleApplication47\main.cpp(363): message : see reference to class template instantiation 'MinPriorityQueue<char>' being compiled
+C:\Users\19565\source\repos\ConsoleApplication47\minpriorityqueue.h(72,32): warning C4018: '<': signed/unsigned mismatch
+  ConsoleApplication47.vcxproj -> C:\Users\19565\source\repos\ConsoleApplication47\Debug\ConsoleApplication47.exe
